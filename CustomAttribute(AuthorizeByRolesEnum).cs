@@ -1,3 +1,9 @@
+/////////////////////////////////////////////////////
+// This is a custom attribute.                     //
+// Check if user prop has role inserted from enum. //
+// Usage in controllers mainly                     //
+/////////////////////////////////////////////////////
+
 using System;
 using System.Linq;
 using System.Security.Claims;
